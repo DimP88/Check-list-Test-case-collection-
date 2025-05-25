@@ -7,3 +7,4 @@
 - [Authorizations testing](https://docs.google.com/spreadsheets/d/10rnCiSjZ1JM0YZZghCB7aRYmVDGtfMvymLCsgVCGtFg/edit?usp=sharing)
 - [Testing e-mail input field](https://docs.google.com/spreadsheets/d/11DJWa-mzW_2LwNjclEF9JbONP9KWoixn5j6fwwMKW1Q/edit?usp=sharing)
 - [Testing the password recovery fields.](https://docs.google.com/spreadsheets/d/10GN98QJGEUf1P5sH6AMO6wCzz2MniSDOtwC4B2abPsU/edit?usp=sharing)
+- [Testing the search fields.](https://docs.google.com/spreadsheets/d/1o0B4VivudEBpd2Ij5dY6rZLusajIxOCYavh2nDRVPWA/edit?usp=sharing)
